@@ -1,0 +1,6 @@
+# Central registry of all official and community nexuslua plugins.
+# To add your plugin, please submit a pull request.
+
+[[plugin]]
+# acrion image tools - provides basic image processing functions.
+url = "https://raw.githubusercontent.com/acrion/image-tools/main/nexuslua_plugin.toml"
