@@ -1,5 +1,5 @@
 A lightweight **public registry** for the nexuslua ecosystem.  
-It lists URLs to each plugin’s own `nexuslua_plugin.toml` file, enabling tools and host applications (e.g. the [`nexuslua` executable](https://github.com/acrion/nexuslua) and [acrionphoto](https://github.com/acrionphoto) to discover, display, and install plugins.
+It lists URLs to each plugin’s own `nexuslua_plugin.toml` file, enabling tools and host applications (e.g. the [nexuslua executable](https://github.com/acrion/nexuslua) and [acrionphoto](https://github.com/acrionphoto) to discover, display, and install plugins.
 
 > This repository does **not** host plugin binaries. It is a catalogue of **metadata URLs** only.  
 > Plugin authors retain full control over versioning and releases in their own repositories.
