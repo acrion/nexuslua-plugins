@@ -76,3 +76,10 @@ Each plugin’s **licence** is defined by the plugin’s own repository and `url
 * **nexuslua (engine & CLI):** [https://github.com/acrion/nexuslua](https://github.com/acrion/nexuslua)
 * Example plugins and host applications are linked from their respective repositories.
 
+---
+
+## Community
+
+Have questions, want to share what you've built, or just say hi? Join our community on Discord!
+
+💬 **[Join the nexuslua Discord Server](https://discord.gg/aaZPevdEen)**
